@@ -1,0 +1,44 @@
+{
+  "name": "book-source-quickmarkup-renderer",
+  "version": "0.1.0",
+  "description": "QuickMarkup (Terminal Kit, String Kit) text renderer for the Book Source parser, a lightweight markup language, inspired by Markdown.",
+  "main": "lib/QuickMarkupRenderer.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/book-source-quickmarkup-renderer.git"
+  },
+  "keywords": [
+    "lightweight",
+    "markup",
+    "language",
+    "book",
+    "source",
+    "quickmarkup",
+    "terminal",
+    "terminal-kit",
+    "string-kit",
+    "renderer"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/book-source-quickmarkup-renderer/issues"
+  },
+  "copyright": {
+    "title": "Book Source QuickMarkup Renderer",
+    "years": [
+      2024
+    ],
+    "owner": "Cédric Ronvel"
+  },
+  "engines": {
+    "node": ">=14.15.0"
+  }
+}
