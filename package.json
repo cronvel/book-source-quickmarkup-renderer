@@ -1,6 +1,6 @@
 {
   "name": "book-source-quickmarkup-renderer",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "QuickMarkup (Terminal Kit, String Kit) text renderer for the Book Source parser, a lightweight markup language, inspired by Markdown.",
   "main": "lib/QuickMarkupRenderer.js",
   "directories": {
